@@ -2,20 +2,20 @@
 `Fork`自[obihann](https://github.com/obihann)的一个`macOS`脚本，效果如图
 
 ```
-$ sh -c "$(curl -fsSL https://raw.githubusercontent.com/athlonreg/archey-osx/master/bin/archey-en)" 
+$ sh -c "$(curl -fsSL https://raw.githubusercontent.com/imnpc/archey-osx/master/bin/archey-en)" 
 ```
 
-![screen-en.png](https://cdn.jsdelivr.net/gh/athlonreg/archey-osx/screen/screen-en.png)
+![screen-en.png](https://cdn.jsdelivr.net/gh/imnpc/archey-osx/screen/screen-en.png)
 
 ```
-$ sh -c "$(curl -fsSL https://raw.githubusercontent.com/athlonreg/archey-osx/master/bin/archey)" 
+$ sh -c "$(curl -fsSL https://raw.githubusercontent.com/imnpc/archey-osx/master/bin/archey)" 
 ```
 
-![screen-zh_CN.png](https://cdn.jsdelivr.net/gh/athlonreg/archey-osx/screen/screen-zh_CN.png)
+![screen-zh_CN.png](https://cdn.jsdelivr.net/gh/imnpc/archey-osx/screen/screen-zh_CN.png)
 
 ## Installation/安装
 ```
-$ cd && git clone https://github.com/athlonreg/archey-osx 
+$ cd && git clone https://github.com/imnpc/archey-osx 
 $ sudo mv archey-osx/ /usr/local/ 
 $ sudo ln -s /usr/local/archey-osx/bin/archey /usr/local/bin/archey #中文版
 $ sudo ln -s /usr/local/archey-osx/bin/archey-en /usr/local/bin/archey-en #英文版
